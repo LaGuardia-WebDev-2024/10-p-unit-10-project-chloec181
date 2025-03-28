@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+     background-image: url("https://cdn.glitch.global/208e7fd0-286c-45dd-941f-c1b18dec941d/8294f4df-fa55-4f92-a83d-9b487eb51747.image.png?v=1742930354060");
   text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -15,6 +15,10 @@ html{
 
 #myCanvas {
   border: 1px solid black;
+   background-image: url("https://cdn.glitch.global/208e7fd0-286c-45dd-941f-c1b18dec941d/8294f4df-fa55-4f92-a83d-9b487eb51747.image.png?v=1742930354060");
+background-size:cover;
+  background-repeat:no-repeat;
+  background-attachment:fixed;
 }
 
 .container{
@@ -34,7 +38,10 @@ html{
 }
 
 h2{
-  color: black;
+  color: pink;
+}
+h3{
+  color: pink;
 }
 
 #start{
